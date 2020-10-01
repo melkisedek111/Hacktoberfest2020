@@ -10,3 +10,8 @@
  - Place: Tamilnadu
  - Bio: Student
  - GitHub: [farzanfa00](https://github.com/farzanfa00)
+ 
+#### Name: Farzan T A
+ - Place: Philippines
+ - Bio: Student
+ - GitHub: [melkisedek111](https://github.com/melkisedek111)
